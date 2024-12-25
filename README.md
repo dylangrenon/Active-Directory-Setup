@@ -24,22 +24,26 @@ Open VMware and create a new virtual machine.
 
 Keep configuration as "Typical" and click next.
 
+---
 ![image](https://github.com/user-attachments/assets/dad07bb3-e42f-4f4d-9ea7-0a4c1522a09c)
 
 Select "Browse..." and choose your downloaded Windows Server 2022 ISO file. 
 (Note: below the file path, the OS should be detected) <br /> 
 Click next.
 
+---
 ![image](https://github.com/user-attachments/assets/bcd34f60-c396-4dfc-a544-24dd4d929f71)
 
 Add a name and password to log into the server initially. (This will change later on) <br />
 Click next.
 
+---
 ![image](https://github.com/user-attachments/assets/0f2c21ab-7bbb-4e03-b81f-ffcc989f65f5)
 
 Set a name for the VM and choose a file location on your PC for it to be stored. <br />
 Click next.
 
+---
 
 Follow the steps to configure the initial setup (date/time, network settings, etc.).
 Activate the Windows Server license (if applicable).
