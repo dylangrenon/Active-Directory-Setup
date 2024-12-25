@@ -5,16 +5,18 @@
 
 Step-by-step guide to installing and configuring Active Directory on Windows Server 2022.
 
-Introduction
-Brief overview of Active Directory and its purpose.
-Mention prerequisites and target audience.
-Outline the tutorial structure.
+## Introduction
+
+Learn how to create a lab containing Active Directory an end-user Windows 10 workstation.
+
 
 ## Prerequisites
 
 - VMware Workstation Pro (can also be completed with VirtualBox)
 - Windows Server 2022 ISO file
     - https://info.microsoft.com/ww-landing-windows-server-2022.html
+- Windows 10 ISO file
+    - https://massgrave.dev/windows_10_links
 
 ### Step 1: Install Windows Server
 
