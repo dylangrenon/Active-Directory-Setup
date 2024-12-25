@@ -5,23 +5,22 @@
 
 Step-by-step guide to installing and configuring Active Directory on Windows Server 2022.
 
-<p>
 Introduction
 Brief overview of Active Directory and its purpose.
 Mention prerequisites and target audience.
-Outline the tutorial structure. <br />
+Outline the tutorial structure.
 
 ## Prerequisites
 
-- A Windows Server machine (2016, 2019, or 2022).
-- Administrative access to the server.
-- At least one static IP address.
-- Access to installation media or ISO for Windows Server.
-- Basic understanding of networking concepts.
+- VMware Workstation Pro (can also be completed with VirtualBox)
+- Windows Server ISO (2016, 2019, or 2022).
+- ISO for Windows Server.
 
 ### Step 1: Install Windows Server
 
-Download and install Windows Server from Microsoft’s website.
+Download and install Windows Server 2022 ISO from Microsoft’s website. 
+ - https://info.microsoft.com/ww-landing-windows-server-2022.html
+
 Follow the steps to configure the initial setup (date/time, network settings, etc.).
 Activate the Windows Server license (if applicable).
 Step 2: Assign a Static IP Address
